@@ -1,5 +1,4 @@
-Modernizing your legacy application
------------------------------------
+# Modernizing your legacy application
 
 How do you modernize beyond a 10-30 year legacy?
 
